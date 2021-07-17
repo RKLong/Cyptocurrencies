@@ -21,7 +21,7 @@ Using the new DataFrame that was created, an elbow curve using hvPlot to find th
 
 Another DataFrame that included predicted clusters and cryptocurrencies features was created. It has the following columns: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class. In this case, class would pertain correspond to the prediction, in terms of what cluster the cryptocurrency belongs to.
 
-![Nine_columns](resources/coinname_dropped)
+![Nine_columns](resources/coinname_dropped.png)
 
 ## Visualizing Cryptocurrencies Results
 
@@ -33,7 +33,7 @@ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 
 ### Tradable Cryptocurrencies Table
 
-![tradable](resources/tradable_table.png)
+![tradable](resources/tradable.png)
 
 Most of the cryptocurrencies are part of class #0 and #1.
 The snapshot above shows that BitTorrent is the only cryptocurrency in class #2. 
@@ -46,7 +46,7 @@ Text here
 
 ### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
 
-![2D Scatterplot](resources/coinsupply_mined.png)
+![2D Scatterplot](resources/coinssupply_mined.png)
 
 Both these scatter plots show the distribution and the four clusters of cryptocurrencies.
 We can identify the outliers like the unique cryptocurrency in the class #2. 
