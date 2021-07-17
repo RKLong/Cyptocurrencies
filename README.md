@@ -21,7 +21,7 @@ Using the new DataFrame that was created, an elbow curve using hvPlot to find th
 
 Another DataFrame that included predicted clusters and cryptocurrencies features was created. It has the following columns: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class. In this case, class would pertain correspond to the prediction, in terms of what cluster the cryptocurrency belongs to.
 
-![Nine_columns](Resources/coinname_dropped)
+![Nine_columns](resources/coinname_dropped)
 
 ## Visualizing Cryptocurrencies Results
 
