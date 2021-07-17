@@ -51,6 +51,6 @@ It is difficult to distinguish the cryptocurrencies and the different classes fr
 
 
 # Summary
-From 1252, we were able to reduce the cryptocurrencies to 532 after preprocessing the data. These 532 cryptocurrencies were then classified or grouped into 4 distinct classes based on the similarities of their features. From here, further analyses need to be made on how each class, or even a specific cryptocurrency, performs before it is included as an offering in the investment bank's investment portfolio for its customers.
+From 1252, we were able to reduce the cryptocurrencies to 532 after preprocessing the data. These 532 cryptocurrencies were then classified or grouped into 4 distinct classes based on the similarities of their features. From here, the investment bank would need to do further analyses on how each class, or even a specific cryptocurrency, performs before it is included as an offering in the investment bank's investment portfolio for its customers.
 
 
