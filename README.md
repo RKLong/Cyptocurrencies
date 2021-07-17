@@ -40,7 +40,7 @@ The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
 
 ### Table for TotalCoinMined and TotalCoin Supply
 
-![Mined and Supply](resources/DF_Supply vs Mined.png)
+![Mined and Supply](resources/DF_coinssupply_mined.png)
 
 Text here
 
