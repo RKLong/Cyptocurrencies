@@ -1,5 +1,5 @@
 # Cyptocurrencies
-UCB Challenge: Use skills associated with unsupervised learning to create an analysis for clients who are preparing to get into the cryptocurrency market.
+Use skills associated with unsupervised learning to create an analysis for clients who are preparing to get into the cryptocurrency market.
 
 # Overview of Analysis
 Preprocessing the database, reducing the data dimension using Principal Component Analysis or PCA, clustering cryptocurrencies using K-Means AND visualizing classification results with 2D and 3D scatter plots are skills associated with unsupervised learning; In this project we are given the task to analyze a database of cryptocurrencies using the skills mentioned above to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
